@@ -1,1 +1,1 @@
-print('teste')sdsdsd
+print('teste')
